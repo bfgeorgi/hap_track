@@ -1,0 +1,7 @@
+browser position chr9:6216516-6218595
+track name=Haplotype_SNPs description="blue=SNP present on hap, black=SNP absent on hap" itemRgb="On"
+#chrom chromStart chromEnd name score strand thickStart thickEnd itemRgb
+chr9 6216516 6216517 rs11791561 0 . 6216516 6216516 0,0,255
+chr9 6216815 6216816 rs111896044 0 . 6216815 6216815 0,0,0
+chr9 6218346 6218347 rs78121143 0 . 6218346 6218346 0,0,0
+chr9 6218595 6218596 rs72614080 0 . 6218595 6218595 0,0,0
