@@ -1,5 +1,5 @@
-browser position chr9:6235009-6236350
-track name=Haplotype_SNPs description="blue=SNP present on hap, black=SNP absent on hap" itemRgb="On"
+browser pack encRegTfbsClustered wgEncodeRegMarkH3k27ac wgEncodeRegMarkH3k4me1 wgEncodeRegMarkH3k4me3 wgEncodeRegDnaseClustered
+track name=Haplotype_SNPs description="blue=SNP present on hap, black=SNP absent on hap" itemRgb="On" visibility="3"
 #chrom chromStart chromEnd name score strand thickStart thickEnd itemRgb
 chr9 6235009 6235010 rs10975504 0 . 6235009 6235009 0,0,255
 chr9 6235217 6235218 rs12341955 0 . 6235217 6235217 0,0,0
